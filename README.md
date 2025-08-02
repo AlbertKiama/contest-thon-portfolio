@@ -30,5 +30,7 @@ etc
 
 Feel free to explore my projects, reach out for collaboration, or connect professionally. I'm always eager to learn, build, and grow.
 
+---
+Remember, some external link might not be working due to the limitation of the html and css ability.
 
 
