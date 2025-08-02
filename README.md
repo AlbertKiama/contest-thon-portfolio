@@ -12,7 +12,8 @@ Welcome to my portfolio! I'm a passionate technologist with a strong foundation 
 ## Technologies used are
 - html
 - css
-** These technologies are limited at some point therefore it was hard to implement some functionalities in my website. Let's start with the different sections that are in my website.
+
+These technologies are limited at some point therefore it was hard to implement some functionalities in my website. Let's start with the different sections that are in my website.
 
 - Home - This section has both navigation and hero. Both of this are structured and implemented using flex
 - About - Also this structured and implemented using flex
@@ -51,6 +52,7 @@ Feel free to explore my projects, reach out for collaboration, or connect profes
 
 ---
 Remember, some external link might not be working due to the limitation of the html and css ability.
+
 
 
 
