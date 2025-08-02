@@ -1,5 +1,5 @@
 ﻿# contest-thon-portfolio
-# 👨‍💻 John Smith
+# 👨‍💻 Benedict Ooko
 
 Welcome to my portfolio! I'm a passionate technologist with a strong foundation in computer science and hands-on experience across software development, networking, and system automation. I thrive on building robust, scalable solutions that bridge the gap between theory and real-world application.
 - This section is implemented using flex.
@@ -23,11 +23,12 @@ Welcome to my portfolio! I'm a passionate technologist with a strong foundation 
 etc
 
 ## 📫 Contact
-- **Email:** johnsmith@gmail.com  
-- **LinkedIn:** [John Smith](https://www.linkedin.com/in/john-smith-728859246)
+- **Email:** benedictooko@gmail.com  
+- **LinkedIn:** [Benedict Oooko](https://www.linkedin.com/in/john-smith-728859246)
 
 ---
 
 Feel free to explore my projects, reach out for collaboration, or connect professionally. I'm always eager to learn, build, and grow.
+
 
 
